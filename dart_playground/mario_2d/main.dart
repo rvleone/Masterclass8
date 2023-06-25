@@ -21,7 +21,7 @@ void main() {
       print('O player ${i + 1} está com o persaonagem $nomePersonagem');
     }
     if (numPersonagem == 4) {
-      nomePersonagem = personagem.personagem3;
+      nomePersonagem = personagem.personagem4;
       print('O player ${i + 1} está com o persaonagem $nomePersonagem');
     }
     i++;
